@@ -5,8 +5,8 @@
 1. Export aws credentials.
 
 ```
-  export AWS_ACCESS_KEY_ID=xxxxx
-	export AWS_SECRET_ACCESS_KEY=yyyyy
+export AWS_ACCESS_KEY_ID=xxxxx
+export AWS_SECRET_ACCESS_KEY=yyyyy
 ```
 
 2. Input OUTPUT_LOCATION of `main.go` at line 17.
