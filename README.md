@@ -11,7 +11,7 @@
 
 2. Input OUTPUT_LOCATION of `main.go` at line 17.
 
-3. Input QueryString of `main.go` at line 20-.
+3. Input queryString(=SQL for Athena) of `main.go` at line 20-.
 
 4. run
 
