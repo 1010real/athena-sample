@@ -19,7 +19,7 @@ const OUTPUT_LOCATION = "s3://xxxxx"
 // todo: replace Athena Query (SQL for Athena)
 var queryString = strings.Join([]string{
 	"SELECT *",
-	"FROM \"DATABASE_NAME_FOR_ATHENA\".\"TABLE_NAME_FOR_ATHENA\"",
+	"FROM \"database_name_for_athena\".\"table_name_for_athena\"",
 	"LIMIT 100;"}, " ")
 
 var (
