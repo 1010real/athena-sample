@@ -13,7 +13,7 @@ export AWS_SECRET_ACCESS_KEY=yyyyy
 
 3. Input queryString(=SQL for Athena) of `main.go` at line 20-.
 
-4. run
+4. Run
 
 ```
 go run main.go
